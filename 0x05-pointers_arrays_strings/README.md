@@ -1,0 +1,1 @@
+For_learing_pointers_arrays_and_strings
